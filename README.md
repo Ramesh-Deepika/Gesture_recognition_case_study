@@ -38,5 +38,5 @@ The training data consists of a few hundred videos categorised into one of the f
 
 ![observations]
 
-I choose CNN+LSTM with GRU based model as the final choice due to fairly decent accuracy.
+I choose Conv3D model as the final choice due to fairly decent accuracy with less parameters.
 
